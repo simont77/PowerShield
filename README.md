@@ -32,7 +32,7 @@ List of used ports and their funtions will be available in the Wiki section.
  Check the "Issues" section.
 
 ## What is needed
-* INDI driver is not available.
+* INDI driver is on the way: https://github.com/rkaczorek/astroberry-powershield
 * I am planning to perform thermal measurement, to see what is board thermal behaviour under maximal load condition.
 
 # Mechanical Design (MCAD)
